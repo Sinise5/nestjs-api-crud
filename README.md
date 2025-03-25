@@ -35,7 +35,7 @@ Proyek ini adalah **REST API CRUD** berbasis **NestJS** yang menggunakan **TypeO
 
 1️⃣ **Clone Repository**
 ```sh
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Sinise5/nestjs-api-crud.git)
 cd nestjs-api-crud
 ```
 
